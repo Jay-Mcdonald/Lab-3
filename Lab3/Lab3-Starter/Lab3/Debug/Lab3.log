@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\jamie\Desktop\CollegeWork\Carlow\Year 1\Maths\Lab3\Lab3-Starter\Lab3\Game.cpp(232,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jamie\Desktop\CollegeWork\Carlow\Year 1\Maths\Lab3\Lab3-Starter\Lab3\Game.cpp(556,11): warning C4553: '==': result of expression not used; did you intend '='?
+  Lab3.vcxproj -> C:\Users\jamie\Desktop\CollegeWork\Carlow\Year 1\Maths\Lab3\Lab3-Starter\Debug\Lab3.exe
